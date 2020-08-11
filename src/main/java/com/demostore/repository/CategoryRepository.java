@@ -6,6 +6,5 @@ import com.demostore.entity.Category;
 
 
 public interface CategoryRepository extends JpaRepository<Category, Long> {
-	
-	
+
 }

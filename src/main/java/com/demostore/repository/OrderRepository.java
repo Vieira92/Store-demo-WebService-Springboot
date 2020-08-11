@@ -6,6 +6,5 @@ import com.demostore.entity.Order;
 
 
 public interface OrderRepository extends JpaRepository<Order, Long> {
-	
-	
+
 }
