@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 
 import com.demostore.entity.User;
-import com.demostore.repositories.UserRepository;
+import com.demostore.repository.UserRepository;
 
 @Configuration
 @Profile ("test")
