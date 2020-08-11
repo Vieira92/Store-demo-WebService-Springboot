@@ -1,13 +1,13 @@
-package com.demostore.projectwebservice;
+package com.demostore;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoStoreProjectWebServiceApplication {
+public class DemoStoreApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoStoreProjectWebServiceApplication.class, args);
+		SpringApplication.run(DemoStoreApplication.class, args);
 	}
 
 }
